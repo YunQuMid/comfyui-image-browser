@@ -1,4 +1,4 @@
-hanaikada>=0.1.13
+hanaikada>=0.1.14
 aiohttp
 multidict
 yarl
